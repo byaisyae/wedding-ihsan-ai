@@ -11,7 +11,7 @@ window.WEDDING_CONFIG = {
   // ---------- Pengaturan situs & preview link ----------
   site: {
     // URL lengkap tempat undangan di-hosting (wajib diakhiri "/")
-    url: "https://isanmh.github.io/wedding/",
+    url: "https://saevitation.com/wedding-ihsan-ai/",
     // Foto untuk preview link WhatsApp/IG (path relatif ke folder ini, ukuran ideal 1200x630)
     ogImage: "img/grt/1.webp",
     // Kosongkan untuk memakai deskripsi otomatis
